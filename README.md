@@ -1,4 +1,3 @@
 # mobilidadesocial
-Programacao usada para realizar estudo sobre mobilidade social no Brasil, tendo como referencia os dados da PNAD 2014
-E uma atualizacao do trabalho seminal de Pastore (1973)
-
+Programa desenvolvido para estudo sobre mobilidade social no Brasil, com base nos microdados da PNAD 2014.
+Trata-se de uma atualização do trabalho de Pastore (1973).
